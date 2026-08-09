@@ -371,7 +371,7 @@ with st.sidebar:
     )
 
     st.markdown("---")
-    st.caption("© Coffee Chantha • Supabase Cloud DB")
+    st.caption("© Coffee Chantha made with ❤️")
 
 # ==================== PAGES ====================
 
